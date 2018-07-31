@@ -1,0 +1,41 @@
+body {
+background: #ffffff;
+}
+#page-title{
+width: 1000px;
+height: 100px;
+background: #eeeeee;
+margin: 25px auto; 
+}
+#main{
+width: 1000px;
+height: 600px;
+background: #dddddd;
+margin: 25px auto;
+}
+h1{
+text-align: left;
+padding: 10px 0 0 40px;
+font-family: "Garamond", sans-serif;
+font-size: 24pt; 
+color: #000000; 
+}
+hr{
+height: 2px;
+color: #ffffff;
+}
+p{
+text-align: left;
+padding: 10px 0 0 40px;
+font-family: "Garamond", sans-serif;
+font-size: 12pt;
+color: #000000;
+}
+signature{
+text-align: left;
+padding: 0 0 0 100px;
+font-family: "URW Chancery L", cursive;
+font-size: 24pt;
+color: #999999;
+}
+
